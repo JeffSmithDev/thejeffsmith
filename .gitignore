@@ -65,9 +65,6 @@ webapp/static-src/*
 /tmp
 
 webapp/.s3_sync
-webapp/aws.json
 .DS_Store
-
-./webapp/node_modules
-./webapp/bower_components
-./webapp/gulp
+*iml
+webapp/public
